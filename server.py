@@ -3,7 +3,7 @@ import os
 
 app = Flash(__name__)
 
-@app.route("/")
+@app.route("/index")
 def test():
   return "hello world"
 
