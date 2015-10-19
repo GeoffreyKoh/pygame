@@ -1,11 +1,11 @@
 from flask import Flask , render_template
 import os
 
-app = Flash(__name__)
+app = Flask(__name__)
 
 @app.route("/index")
 def test():
-  return "hello world"
+  return  render_template("index.html")
 
 if __name__ == "__main__":
   app.run(debug=True)
