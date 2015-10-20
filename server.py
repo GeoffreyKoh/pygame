@@ -1,7 +1,9 @@
 from flask import Flask , render_template
 import os
+from flask.ext.triangle import Triangle
 
-app = Flask(__name__)
+app = Flask(__name__,static_path='/static')
+Triangle(app)
 
 @app.route("/index")
 def test():
