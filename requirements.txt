@@ -1,0 +1,4 @@
+pip == 1.5.4
+Flask==0.10.1
+Flask-Bower == 1.2.1
+Flask-Triangle == 0.5.4
