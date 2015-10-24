@@ -2,8 +2,13 @@
 <html ng-app="demoApp">
 <head>
 	<title>home</title>
-	<script src="/static/js/angular.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="../static/css/style.css">
+	<script src="{{ url_for('bower.static', filename='jquery/dist/jquery.min.js') }}"></script>
+	<script src="{{ url_for('bower.static', filename='angular/angular.min.js') }}"></script>
+	<script src="{{ url_for('bower.static', filename='bootstrap/dist/js/bootstrap.min.js') }}"></script>
+	<link rel="stylesheet" type="text/css" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+
+
 </head>
 <body ng-controller="mainController">
 	<script>

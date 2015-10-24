@@ -1,9 +1,11 @@
 from flask import Flask , render_template
 import os
 from flask.ext.triangle import Triangle
+from flask.ext.bower import Bower
 
 app = Flask(__name__,static_path='/static')
 Triangle(app)
+Bower(app)
 
 @app.route("/index")
 def test():
