@@ -1,5 +1,22 @@
 body {
   color: orange;
-  font-family: Ubuntu Mono; }
+  font-family: Ubuntu Mono;
+  background-image: url("/static/img/concrete_seamless.png");
+  background-repeat: repeat; }
+
+footer {
+  bottom: -50px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  background: #66CCFF;
+  text-shadow: 2px 2px #FFFFFF; }
+  footer .footText {
+    padding-top: 10px; }
+
+font {
+  padding: 15px; }
 
 /*# sourceMappingURL=style.css.map */

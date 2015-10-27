@@ -2,10 +2,12 @@
 <html ng-app="demoApp">
 <head>
 	<title>home</title>
+	<meta charset="UTF-8">
+	<script src="{{ url_for('bower.static', filename='d3/d3.min.js') }}"></script>
 	<script src="{{ url_for('bower.static', filename='jquery/dist/jquery.min.js') }}"></script>
 	<script src="{{ url_for('bower.static', filename='angular/angular.min.js') }}"></script>
 	<script src="{{ url_for('bower.static', filename='bootstrap/dist/js/bootstrap.min.js') }}"></script>
-	<link rel="stylesheet" type="text/css" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('bower.static', filename='bootstrap/dist/css/bootstrap.min.css') }}">
 	<link rel="stylesheet" type="text/css" href="/static/css/style.css">
 
 
@@ -26,14 +28,33 @@
 		}
 	});
 	</script>
+<!-- Start Nav -->
+	<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/index"><span class="glyphicon glyphicon-home" aria-hidden="true">&nbsp;Web Development Test Project</a>
+    </div>
+  </div>
+</nav>
+<!--End Of Nav -->
+<div class="row">
 
+<div class="container">
+		<div class="panel panel-default">
+		<div class="panel-heading">Test Section</div>	
 	{{msg|angular}}
 
 	<btn></btn>
 
 	  <p>Name : <input type="text" ng-model="names"></p>
 	  <h1>Hello {{names|angular}}</h1>
+	</div>
+</div>
 
+
+</div>
+
+<footer class="row"><div class="container"><div class="footText"> Copyright © 2015 Geoffrey. All rights reserved.</div></div></footer>
 </body>
 
 </html>

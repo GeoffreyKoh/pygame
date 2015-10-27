@@ -6,5 +6,6 @@ Runs the dependencies (add sudo if cannot):
 	npm install -g grunt-cli (Install Grunt)
 	sudo apt-get install rbenv (Install Ruby)
 	sudo su -c "gem install sass" (Install Sass)
+	bower install (Install bower components)
 
 
