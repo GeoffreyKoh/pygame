@@ -22,4 +22,15 @@ font {
 .panel-body {
   padding: 15px; }
 
+.leftStuff {
+  position: relative;
+  right: 500px; }
+
+.rightStuff {
+  position: relative;
+  left: 100px; }
+
+.btn {
+  margin: 5px; }
+
 /*# sourceMappingURL=style.css.map */
