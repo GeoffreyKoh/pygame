@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="508.57px" height="450px" viewBox="0 0 508.57 450" enable-background="new 0 0 508.57 450" xml:space="preserve">
+<g id="Layer_1">
+	<path fill="#E6E7E8" d="M508.57,438c0,6.627-5.543,12-12.383,12H12.383C5.544,450,0,444.627,0,438V12C0,5.373,5.544,0,12.383,0
+		h483.805c6.84,0,12.383,5.373,12.383,12V438z"/>
+</g>
+<g id="Layer_2">
+	<line fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="45.286" y1="60.571" x2="45.286" y2="399.143"/>
+	<line fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="42.286" y1="395.143" x2="468" y2="395.143"/>
+	
+		<line opacity="0.2" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="42.286" y1="334.714" x2="468" y2="334.714"/>
+	
+		<line opacity="0.2" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="42.285" y1="270.429" x2="468" y2="270.429"/>
+	
+		<line opacity="0.2" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="42.287" y1="201.856" x2="468" y2="201.856"/>
+	
+		<line opacity="0.2" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="42.286" y1="137.571" x2="468" y2="137.571"/>
+	
+		<line opacity="0.2" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" x1="41.428" y1="71.857" x2="467.143" y2="71.857"/>
+</g>
+<g id="Layer_3">
+	<polyline fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="42.286,395.143 136.143,270.429 
+		221.857,332.785 270.429,201.856 361.857,270.429 447.571,137.571 	"/>
+	<circle fill="#00AEEF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="135.895" cy="273.037" r="16.895"/>
+	<circle fill="#00AEEF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="271.79" cy="201.856" r="16.895"/>
+	<circle fill="#00AEEF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="221.105" cy="328.413" r="16.895"/>
+	<circle fill="#00AEEF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="359.867" cy="266.356" r="16.895"/>
+	<circle fill="#00AEEF" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="447.571" cy="137.571" r="16.895"/>
+</g>
+<g id="Layer_4">
+	<path fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" d="M45.286,289.933
+		c0,14.781,59.429-95.218,59.429-95.218l75.714,30.23l50-87.374l107.143,47.39L349,127.571l108.571,91.18"/>
+	<circle fill="#00A651" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="102.105" cy="192.539" r="16.895"/>
+	<circle fill="#00A651" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="177.963" cy="218.75" r="16.895"/>
+	<circle fill="#00A651" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="234.534" cy="137.57" r="16.895"/>
+	<circle fill="#00A651" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="337.571" cy="184.96" r="16.895"/>
+	<circle fill="#00A651" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="342.973" cy="120.675" r="16.895"/>
+	<circle fill="#00A651" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="457.571" cy="218.75" r="16.895"/>
+</g>
+<g id="Layer_5">
+	<polyline fill="none" stroke="#000000" stroke-width="8" stroke-miterlimit="10" points="42.286,395.143 204.211,270.429 
+		326.078,328.414 417.571,304.714 464.466,367.571 	"/>
+	<circle fill="#ED1C24" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="204.211" cy="270.428" r="16.895"/>
+	<circle fill="#ED1C24" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="326.078" cy="328.412" r="16.895"/>
+	<circle fill="#ED1C24" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="413.782" cy="300.146" r="16.895"/>
+	<circle fill="#ED1C24" stroke="#000000" stroke-width="8" stroke-miterlimit="10" cx="464.466" cy="362.205" r="16.895"/>
+</g>
+</svg>

@@ -2,40 +2,18 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="500px" height="464.286px" viewBox="0 0 500 464.286" enable-background="new 0 0 500 464.286" xml:space="preserve">
+	 width="478.571px" height="480px" viewBox="0 0 478.571 480" enable-background="new 0 0 478.571 480" xml:space="preserve">
 <g>
 	<g>
-		<g>
-			<text transform="matrix(1 0 0 1 55.6167 447.2666)" font-family="'MyriadPro-Regular'" font-size="19.0379">0</text>
-			<text transform="matrix(1 0 0 1 136.8452 447.2666)" font-family="'MyriadPro-Regular'" font-size="19.0379">5</text>
-			<text transform="matrix(1 0 0 1 213.1909 447.2666)" font-family="'MyriadPro-Regular'" font-size="19.0379">10</text>
-			<text transform="matrix(1 0 0 1 294.4189 447.2666)" font-family="'MyriadPro-Regular'" font-size="19.0379">15</text>
-			<text transform="matrix(1 0 0 1 375.6475 447.2666)" font-family="'MyriadPro-Regular'" font-size="19.0379">20</text>
-			<text transform="matrix(1 0 0 1 456.876 447.2666)" font-family="'MyriadPro-Regular'" font-size="19.0379">25</text>
-		</g>
-		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="426.643" x2="466.643" y2="426.643"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="447.572" x2="461.858" y2="447.572"/>
 		<g>
 			<g>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="426.643" x2="60.5" y2="416.489"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="141.729" y1="426.643" x2="141.729" y2="416.489"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="222.957" y1="426.643" x2="222.957" y2="416.489"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="304.186" y1="426.643" x2="304.186" y2="416.489"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="385.414" y1="426.643" x2="385.414" y2="416.489"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="466.643" y1="426.643" x2="466.643" y2="416.489"/>
-			</g>
-			<g>
-			</g>
-		</g>
-	</g>
-	<g>
-		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="426.643" x2="60.5" y2="20.5"/>
-		<g>
-			<g>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="386.028" x2="70.653" y2="386.028"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="304.8" x2="70.653" y2="304.8"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="223.571" x2="70.653" y2="223.571"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="142.343" x2="70.653" y2="142.343"/>
-				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="60.5" y1="61.114" x2="70.653" y2="61.114"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="447.572" x2="36.715" y2="436.943"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="121.743" y1="447.572" x2="121.743" y2="436.943"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="206.772" y1="447.572" x2="206.772" y2="436.943"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="291.802" y1="447.572" x2="291.802" y2="436.943"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="376.829" y1="447.572" x2="376.829" y2="436.943"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="461.858" y1="447.572" x2="461.858" y2="436.943"/>
 			</g>
 			<g>
 			</g>
@@ -43,12 +21,35 @@
 	</g>
 	<g>
 		<g>
+			<text transform="matrix(1 0 0 1 19.8486 455.0454)" font-family="'MyriadPro-Regular'" font-size="19.9286">0</text>
+			<text transform="matrix(1 0 0 1 19.8486 370.0171)" font-family="'MyriadPro-Regular'" font-size="19.9286">5</text>
+			<text transform="matrix(1 0 0 1 9.6255 284.9888)" font-family="'MyriadPro-Regular'" font-size="19.9286">10</text>
+			<text transform="matrix(1 0 0 1 9.6255 199.9595)" font-family="'MyriadPro-Regular'" font-size="19.9286">15</text>
+			<text transform="matrix(1 0 0 1 9.6255 114.9307)" font-family="'MyriadPro-Regular'" font-size="19.9286">20</text>
+			<text transform="matrix(1 0 0 1 9.6255 29.9023)" font-family="'MyriadPro-Regular'" font-size="19.9286">25</text>
+		</g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="447.572" x2="36.715" y2="22.429"/>
+		<g>
 			<g>
-				<rect x="60.5" y="31.872" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="406.143" height="58.484"/>
-				<rect x="60.5" y="113.101" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="162.457" height="58.484"/>
-				<rect x="60.5" y="194.329" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="243.686" height="58.484"/>
-				<rect x="60.5" y="275.558" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="162.457" height="58.484"/>
-				<rect x="60.5" y="356.786" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="406.143" height="58.484"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="447.572" x2="47.343" y2="447.572"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="362.542" x2="47.343" y2="362.542"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="277.515" x2="47.343" y2="277.515"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="192.486" x2="47.343" y2="192.486"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="107.458" x2="47.343" y2="107.458"/>
+				<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.715" y1="22.429" x2="47.343" y2="22.429"/>
+			</g>
+			<g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="48.619" y="22.429" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="61.221" height="425.143"/>
+				<rect x="133.647" y="192.486" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="61.221" height="255.085"/>
+				<rect x="218.676" y="22.429" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="61.221" height="425.143"/>
+				<rect x="303.706" y="107.458" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="61.219" height="340.114"/>
+				<rect x="388.733" y="277.515" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="61.221" height="170.057"/>
 			</g>
 		</g>
 	</g>
@@ -57,11 +58,11 @@
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 18.668 393.168)" font-family="'MyriadPro-Regular'" font-size="19.0379">Bar5</text>
-		<text transform="matrix(1 0 0 1 18.668 311.9395)" font-family="'MyriadPro-Regular'" font-size="19.0379">Bar4</text>
-		<text transform="matrix(1 0 0 1 18.668 230.7109)" font-family="'MyriadPro-Regular'" font-size="19.0379">Bar3</text>
-		<text transform="matrix(1 0 0 1 18.668 149.4819)" font-family="'MyriadPro-Regular'" font-size="19.0379">Bar2</text>
-		<text transform="matrix(1 0 0 1 18.668 68.2534)" font-family="'MyriadPro-Regular'" font-size="19.0379">Bar1</text>
+		<text transform="matrix(1 0 0 1 381.4102 469.1606)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">C</tspan><tspan x="11.34" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">olumn5</tspan></text>
+		<text transform="matrix(1 0 0 1 296.3818 469.1606)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">C</tspan><tspan x="11.339" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">olumn4</tspan></text>
+		<text transform="matrix(1 0 0 1 211.3525 469.1606)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">C</tspan><tspan x="11.339" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">olumn3</tspan></text>
+		<text transform="matrix(1 0 0 1 126.3237 469.1606)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">C</tspan><tspan x="11.339" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">olumn2</tspan></text>
+		<text transform="matrix(1 0 0 1 41.2954 469.1606)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">C</tspan><tspan x="11.339" y="0" font-family="'MyriadPro-Regular'" font-size="19.9286">olumn1</tspan></text>
 	</g>
 </g>
 </svg>
