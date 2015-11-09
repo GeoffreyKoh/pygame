@@ -3,15 +3,17 @@
 <head>
 	<title>home</title>
 	<meta charset="UTF-8">
-	<script src="{{ url_for('bower.static', filename='d3/d3.min.js') }}"></script>
-	<script src="{{ url_for('bower.static', filename='jquery/dist/jquery.min.js') }}"></script>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('bower.static', filename='bootstrap/dist/css/bootstrap.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('bower.static', filename='qtip2/jquery.qtip.min.css') }}">
+	<link rel="stylesheet" type="text/css" href="/static/css/style.css">
 	<script src="{{ url_for('bower.static', filename='angular/angular.min.js') }}"></script>
 	<script src="{{ url_for('bower.static', filename='bootstrap/dist/js/bootstrap.min.js') }}"></script>
-	<link rel="stylesheet" type="text/css" href="{{ url_for('bower.static', filename='bootstrap/dist/css/bootstrap.min.css') }}">
-	<link rel="stylesheet" type="text/css" href="/static/css/style.css">
-
-
+	<script src="{{ url_for('bower.static', filename='d3/d3.min.js') }}"></script>
+	<script src="{{ url_for('bower.static', filename='angular/angular.min.js') }}"></script>
+	<script src="{{ url_for('bower.static', filename='jquery/dist/jquery.min.js') }}"></script>
+	<script src="{{ url_for('bower.static', filename='qtip2/jquery.qtip.min.js') }}"></script>
 </head>
+
 <body ng-controller="mainController">
 	<script>
 	var app = angular.module("demoApp",[]);
@@ -23,7 +25,19 @@
 	app.directive("btn",function(){
 		return{
 			restrict:'E',
-			template:"<button>click</button>"
+			scope:{
+				stuff: "="
+			},
+			template:"<button>click</button>",
+			link: function(scope,element,attrs){
+				console.log(scope);
+				console.log(element);
+				console.log(attrs);
+			},
+			controller: function($scope){
+				console.log($scope.stuff);
+
+			}
 		}
 	});
 	</script>
@@ -42,7 +56,7 @@
 			<div class="panel-heading">Test Section</div>
 				<div class="panel-body">
 <!--Content goes here -->
-<btn></btn>
+<btn stuff="'things'"></btn>
 
 <p>Name : <input type="text" ng-model="names"></p>
 <h1>Type: {{names|angular}}</h1>
@@ -124,6 +138,7 @@ d3.json("/static/data/sample.json",function(data){
 
 <footer class="row"><div class="container"><div class="footText"> Copyright © 2015 Geoffrey. All rights reserved.</div></div></footer>
 
+	<script src="/static/js/qtip.js"></script>
 </body>
 
 </html>
