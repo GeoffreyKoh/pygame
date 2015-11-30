@@ -2,3 +2,7 @@ bower_components
 .gitignore~
 requirements.txt~
 INSTALL.md~
+node_modules
+static
+.git
+.sass-cache
